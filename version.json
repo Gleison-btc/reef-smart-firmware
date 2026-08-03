@@ -1,5 +1,5 @@
 {
-  "version": "v1.1.0",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v1.1.0/smart_reef_v4.ino.bin",
-  "notes": "Adds remote firmware updates (OTA), real pH/EC/ORP/Ph Reactor/TDS/Saturation sensor readings via ADS1115, and per-outlet last-state memory across reboots."
+  "version": "v1.1.1",
+  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v1.1.1/smart_reef_v4.ino.bin",
+  "notes": "Shows the firmware version on the LCD boot screen - lets you confirm visually that an OTA update applied the right version. Test release for the end-to-end OTA flow."
 }
