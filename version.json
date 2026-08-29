@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.91",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.91/smart_reef_v0.0.91.ino.bin",
-  "notes": "Adiciona atualizacao remota da interface web (LittleFS): upload manual + canal HTTPS, MD5 obrigatorio, verificacao unificada com o firmware. Auto-recuperacao do LCD apos corrupcao I2C causada pelo radio WiFi."
+  "version": "v0.0.92",
+  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.92/smart_reef_v0.0.92.ino.bin",
+  "notes": "Sem mudanca de codigo - versao publicada so para testar o fluxo de OTA ponta a ponta (Check for Updates / Update Now) antes da placa perder acesso fisico."
 }
