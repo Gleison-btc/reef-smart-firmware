@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.0",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.0/smart_reef_v0.ino.bin",
-  "notes": "Shows the firmware version on the LCD boot screen - lets you confirm visually that an OTA update applied the right version. Test release for the end-to-end OTA flow."
+  "version": "v0.0.87",
+  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.87/smart_reef_v0.0.87.ino.bin",
+  "notes": "Corrigido rollback automatico de OTA (confirmacao real pos-boot, nao mais automatica antes do setup()); alfabeto do device code corrigido para nunca gerar byte nulo no meio do codigo de pareamento."
 }
