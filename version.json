@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.92",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.92/smart_reef_v0.0.92.ino.bin",
-  "notes": "Sem mudanca de codigo - versao publicada so para testar o fluxo de OTA ponta a ponta (Check for Updates / Update Now) antes da placa perder acesso fisico."
+  "version": "v0.0.97",
+  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.97/smart_reef_v0.0.97.ino.bin",
+  "notes": "Aviso real de update disponivel (nav bar + push mobile + toast Windows), unificacao do Check/Update e do upload manual, correcao de auth 401 na deteccao de reconexao, barra de progresso no LCD, auto-recuperacao do LCD apos corrupcao I2C pelo radio WiFi, fix do rodape de sensors.html mostrando placeholders crus."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "v1",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/littlefs-v1/littlefs_v1.bin",
-  "notes": "Primeira imagem da interface web publicada no canal remoto.",
+  "version": "v2",
+  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/littlefs-v2/littlefs_v2.bin",
+  "notes": "Card de Firmware Update unificado (Check/Update e upload manual num so lugar), guarda de dosagem manual no card, icone de update disponivel na nav bar, correcoes de OTA.",
   "size": 1048576,
-  "md5": "5af2d31a6a224cbd8b9e510b6ea86eec"
+  "md5": "5585f705c6b02feebd78a054fceaa477"
 }
