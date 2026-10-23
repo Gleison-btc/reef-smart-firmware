@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.97",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/v0.0.97/smart_reef_v0.0.97.ino.bin",
-  "notes": "Aviso real de update disponivel (nav bar + push mobile + toast Windows), unificacao do Check/Update e do upload manual, correcao de auth 401 na deteccao de reconexao, barra de progresso no LCD, auto-recuperacao do LCD apos corrupcao I2C pelo radio WiFi, fix do rodape de sensors.html mostrando placeholders crus."
+  "version": "v0.0.107",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.107.ino.bin",
+  "notes": "Aba Log no estilo monitor serial (tipo, data, filtro, Clear output); /sensors_status rapido sem PZEM instalado; tela cheia do grafico da Home corrigida; painel comprimido (gzip) e mais leve."
 }
