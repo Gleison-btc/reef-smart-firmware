@@ -1,7 +1,7 @@
 {
-  "version": "v22",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v22.bin",
-  "notes": "Corrige o campo de telefone do Profile. Precisa firmware v0.0.121+.",
+  "version": "v23",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v23.bin",
+  "notes": "Graficos: 24h/7d/30d, buracos sem dados, faixa segura, variacao, pinca e voltar ao agora. Precisa firmware v0.0.122+.",
   "size": 458752,
-  "md5": "236a0377f6c6e703e73588fe04fd1841"
+  "md5": "eebfb58b848d7258aea44352176c1dbb"
 }
