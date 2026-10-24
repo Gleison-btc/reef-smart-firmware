@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.117",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.117.ino.bin",
-  "notes": "Diagnostico da conexao com a nuvem."
+  "version": "v0.0.118",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.118.ino.bin",
+  "notes": "Corrige a conexao com a nuvem (falta de memoria no TLS)."
 }
