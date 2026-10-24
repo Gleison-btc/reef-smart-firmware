@@ -1,7 +1,7 @@
 {
-  "version": "v25",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v25.bin",
-  "notes": "Primeira configuracao do Profile volta para a Home ao salvar. Precisa firmware v0.0.122+.",
+  "version": "v26",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v26.bin",
+  "notes": "Graficos: busca e comparacao estilo TradingView, legenda no grafico, zoom pela rodinha. Atualizacao com circulo de carregamento. Precisa firmware v0.0.122+.",
   "size": 458752,
-  "md5": "3e5af8edcbf9931253ff0e091389432e"
+  "md5": "56aa3e070ee1382cd80e99adb20d3cea"
 }
