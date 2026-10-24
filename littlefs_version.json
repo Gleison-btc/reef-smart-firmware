@@ -1,7 +1,7 @@
 {
-  "version": "v20",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v20.bin",
-  "notes": "Nova janela de notificacoes, Profile obrigatorio no 1o acesso, sem secao Update. Precisa firmware v0.0.121+.",
+  "version": "v21",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v21.bin",
+  "notes": "Profile com um e-mail so e telefone formatado. Precisa firmware v0.0.121+.",
   "size": 458752,
-  "md5": "e99e2dbfe9cf05f17d91954bcf896e38"
+  "md5": "122ac48e990778929c035299e9fbf8b2"
 }
