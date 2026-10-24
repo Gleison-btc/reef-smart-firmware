@@ -1,7 +1,7 @@
 {
   "version": "v3",
   "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v3.bin",
-  "notes": "Aba Log no estilo monitor serial; barra de progresso do update por tempo estimado; paginas comprimidas (gzip). Precisa firmware v0.0.105+.",
+  "notes": "Aba Log no estilo monitor serial; icone de atualizacao disponivel na barra; barra de progresso do update por tempo estimado; paginas comprimidas (gzip). Precisa firmware v0.0.105+.",
   "size": 1048576,
-  "md5": "3b5d8e97d34f8e61fb0da96650f40ffc"
+  "md5": "ee19e90d118f842cfceb19485613c9e2"
 }
