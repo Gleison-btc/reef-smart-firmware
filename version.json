@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.115",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.115.ino.bin",
-  "notes": "Corrige a placa reiniciando sozinha e a atualizacao que voltava pra versao anterior; conexao com a nuvem mais estavel (historico volta pro app)."
+  "version": "v0.0.117",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.117.ino.bin",
+  "notes": "Diagnostico da conexao com a nuvem."
 }
