@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.112",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.112.ino.bin",
-  "notes": "Aviso de atualizacao logo depois do login; Atualizar agora instala direto, sem ir pra aba System."
+  "version": "v0.0.113",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.113.ino.bin",
+  "notes": "Log guarda os ultimos 7 dias, mesmo depois de reiniciar ou atualizar."
 }

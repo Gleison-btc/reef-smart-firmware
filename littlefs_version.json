@@ -1,7 +1,7 @@
 {
-  "version": "v11",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v11.bin",
-  "notes": "Atualizar agora instala na propria pagina. Precisa firmware v0.0.108+.",
+  "version": "v12",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v12.bin",
+  "notes": "Log mostra a semana inteira. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "85be8d2621951e9cc0931aaccfb149b9"
+  "md5": "1439ef240d3b894b88fa1769e8da894a"
 }
