@@ -1,7 +1,7 @@
 {
-  "version": "v6",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v6.bin",
-  "notes": "Interface para a memoria dividida (448KB): Log estilo monitor serial, icone e janela de atualizacao, avisos de historico corretos. Precisa firmware v0.0.108+ gravado por USB.",
+  "version": "v7",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v7.bin",
+  "notes": "Icone de atualizacao abre a janela Atualizar agora / Mais tarde; a janela volta a aparecer depois do login. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "73edc127512656bb00f397968b68d225"
+  "md5": "fb74797000b608f717831051de61a084"
 }
