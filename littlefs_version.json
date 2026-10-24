@@ -1,7 +1,7 @@
 {
-  "version": "v19",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v19.bin",
-  "notes": "System: toggles de Notifications e checagem automatica de update lado a lado. Precisa firmware v0.0.120+.",
+  "version": "v20",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v20.bin",
+  "notes": "Nova janela de notificacoes, Profile obrigatorio no 1o acesso, sem secao Update. Precisa firmware v0.0.121+.",
   "size": 458752,
-  "md5": "0fedb5abf9d97e1f60f896168bc03369"
+  "md5": "e99e2dbfe9cf05f17d91954bcf896e38"
 }

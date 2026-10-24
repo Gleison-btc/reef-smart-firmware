@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.120",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.120.ino.bin",
-  "notes": "Notificacoes no painel do controlador e aviso de update pelo botao."
+  "version": "v0.0.121",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.121.ino.bin",
+  "notes": "Notificacoes de alimentacao e dosagem."
 }
