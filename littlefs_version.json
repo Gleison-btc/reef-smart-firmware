@@ -1,7 +1,7 @@
 {
-  "version": "v13",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v13.bin",
-  "notes": "Aviso de controlador reiniciando no fim da atualizacao. Precisa firmware v0.0.108+.",
+  "version": "v14",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v14.bin",
+  "notes": "Valor atual do sensor ao lado do botao de fixar na Home. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "d7660dc12ef9c3e92084ca3d8e083aae"
+  "md5": "dc9f0dbe754b6427e0b9d40163389032"
 }
