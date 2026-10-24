@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.108",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.108.ino.bin",
-  "notes": "Historico em area propria da memoria: atualizar a interface nao apaga mais os graficos (a divisao nova da memoria precisa ser gravada uma vez por USB). Log estilo monitor serial, icone e janela de atualizacao."
+  "version": "v0.0.109",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.109.ino.bin",
+  "notes": "Emergency Stop agora so coloca o controlador em Manual; voltar pro Auto religa as automacoes e devolve os modos das tomadas."
 }

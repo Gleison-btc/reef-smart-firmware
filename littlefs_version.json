@@ -1,7 +1,7 @@
 {
-  "version": "v7",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v7.bin",
-  "notes": "Icone de atualizacao abre a janela Atualizar agora / Mais tarde; a janela volta a aparecer depois do login. Precisa firmware v0.0.108+.",
+  "version": "v8",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v8.bin",
+  "notes": "Depois de atualizar ou reiniciar a placa, o painel volta pra Home. Icone de atualizacao abre a janela Atualizar agora / Mais tarde. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "fb74797000b608f717831051de61a084"
+  "md5": "12bd3b4ebca64f7ea2f620b23eca20fd"
 }
