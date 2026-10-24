@@ -1,7 +1,7 @@
 {
-  "version": "v23",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v23.bin",
-  "notes": "Graficos: 24h/7d/30d, buracos sem dados, faixa segura, variacao, pinca e voltar ao agora. Precisa firmware v0.0.122+.",
+  "version": "v24",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v24.bin",
+  "notes": "Profile salva na hora com aviso; atualizacao interrompida nao retoma sozinha depois. Precisa firmware v0.0.122+.",
   "size": 458752,
-  "md5": "eebfb58b848d7258aea44352176c1dbb"
+  "md5": "06f362e01323748271f416cff3530281"
 }
