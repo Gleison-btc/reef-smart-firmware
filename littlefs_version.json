@@ -1,7 +1,7 @@
 {
-  "version": "v12",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v12.bin",
-  "notes": "Log mostra a semana inteira. Precisa firmware v0.0.108+.",
+  "version": "v13",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v13.bin",
+  "notes": "Aviso de controlador reiniciando no fim da atualizacao. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "1439ef240d3b894b88fa1769e8da894a"
+  "md5": "d7660dc12ef9c3e92084ca3d8e083aae"
 }
