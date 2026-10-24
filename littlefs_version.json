@@ -1,7 +1,7 @@
 {
-  "version": "v9",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v9.bin",
-  "notes": "Botao Auto/Manual troca na hora; janela de atualizacao aparece sem recarregar; volta pra Home depois de atualizar. Precisa firmware v0.0.108+.",
+  "version": "v10",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v10.bin",
+  "notes": "Notify me na janela do sensor. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "73e75a71de52eb18233fbf01bcfde608"
+  "md5": "2dc6b662ea00cbf03bb4b2a764ef1ad0"
 }

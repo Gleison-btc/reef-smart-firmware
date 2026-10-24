@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.110",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.110.ino.bin",
-  "notes": "Aviso de nova atualizacao aparece sozinho com o painel aberto. Emergency Stop so coloca em Manual; voltar pro Auto religa as automacoes."
+  "version": "v0.0.111",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.111.ino.bin",
+  "notes": "Opcao Notify me em cada sensor: escolha quais sensores mandam notificacao no app/e-mail."
 }
