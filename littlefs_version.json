@@ -1,7 +1,7 @@
 {
-  "version": "v2",
-  "url": "https://github.com/Gleison-btc/reef-smart-firmware/releases/download/littlefs-v2/littlefs_v2.bin",
-  "notes": "Card de Firmware Update unificado (Check/Update e upload manual num so lugar), guarda de dosagem manual no card, icone de update disponivel na nav bar, correcoes de OTA.",
+  "version": "v3",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v3.bin",
+  "notes": "Aba Log no estilo monitor serial; barra de progresso do update por tempo estimado; paginas comprimidas (gzip). Precisa firmware v0.0.105+.",
   "size": 1048576,
-  "md5": "5585f705c6b02feebd78a054fceaa477"
+  "md5": "3b5d8e97d34f8e61fb0da96650f40ffc"
 }
