@@ -1,7 +1,7 @@
 {
-  "version": "v15",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v15.bin",
-  "notes": "Filtro de data no Log e valor do sensor na Home. Precisa firmware v0.0.108+.",
+  "version": "v16",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v16.bin",
+  "notes": "Cartao de notificacoes na aba System. Precisa firmware v0.0.120 para funcionar.",
   "size": 458752,
-  "md5": "fbb90a816cda96b6c617471f4545d1cb"
+  "md5": "45fcdfa4e6330e6ee528da30fd09de18"
 }
