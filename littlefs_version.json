@@ -1,7 +1,7 @@
 {
-  "version": "v14",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v14.bin",
-  "notes": "Valor atual do sensor ao lado do botao de fixar na Home. Precisa firmware v0.0.108+.",
+  "version": "v15",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v15.bin",
+  "notes": "Filtro de data no Log e valor do sensor na Home. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "dc9f0dbe754b6427e0b9d40163389032"
+  "md5": "fbb90a816cda96b6c617471f4545d1cb"
 }
