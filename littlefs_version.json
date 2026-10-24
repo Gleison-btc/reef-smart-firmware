@@ -1,7 +1,7 @@
 {
-  "version": "v17",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v17.bin",
-  "notes": "Update instala firmware e interface juntos mesmo com atraso do servidor. Precisa firmware v0.0.108+.",
+  "version": "v18",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v18.bin",
+  "notes": "Notificacoes: toggle no System com janela de canais e tipos. Precisa firmware v0.0.120+.",
   "size": 458752,
-  "md5": "c271a11656d544bf75152895646c4665"
+  "md5": "4a07a1faa1e73abebbd46da0d14c5f20"
 }
