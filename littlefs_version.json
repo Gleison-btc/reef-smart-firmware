@@ -1,7 +1,7 @@
 {
-  "version": "v18",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v18.bin",
-  "notes": "Notificacoes: toggle no System com janela de canais e tipos. Precisa firmware v0.0.120+.",
+  "version": "v19",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v19.bin",
+  "notes": "System: toggles de Notifications e checagem automatica de update lado a lado. Precisa firmware v0.0.120+.",
   "size": 458752,
-  "md5": "4a07a1faa1e73abebbd46da0d14c5f20"
+  "md5": "0fedb5abf9d97e1f60f896168bc03369"
 }
