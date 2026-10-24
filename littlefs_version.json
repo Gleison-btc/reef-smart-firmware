@@ -1,7 +1,7 @@
 {
-  "version": "v21",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v21.bin",
-  "notes": "Profile com um e-mail so e telefone formatado. Precisa firmware v0.0.121+.",
+  "version": "v22",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v22.bin",
+  "notes": "Corrige o campo de telefone do Profile. Precisa firmware v0.0.121+.",
   "size": 458752,
-  "md5": "122ac48e990778929c035299e9fbf8b2"
+  "md5": "236a0377f6c6e703e73588fe04fd1841"
 }
