@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.107",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.107.ino.bin",
-  "notes": "Aba Log no estilo monitor serial (tipo, data, filtro, Clear output); /sensors_status rapido sem PZEM instalado; tela cheia do grafico da Home corrigida; painel comprimido (gzip) e mais leve."
+  "version": "v0.0.108",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.108.ino.bin",
+  "notes": "Historico em area propria da memoria: atualizar a interface nao apaga mais os graficos (a divisao nova da memoria precisa ser gravada uma vez por USB). Log estilo monitor serial, icone e janela de atualizacao."
 }
