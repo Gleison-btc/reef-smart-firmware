@@ -1,7 +1,7 @@
 {
-  "version": "v16",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v16.bin",
-  "notes": "Cartao de notificacoes na aba System. Precisa firmware v0.0.120 para funcionar.",
+  "version": "v17",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v17.bin",
+  "notes": "Update instala firmware e interface juntos mesmo com atraso do servidor. Precisa firmware v0.0.108+.",
   "size": 458752,
-  "md5": "45fcdfa4e6330e6ee528da30fd09de18"
+  "md5": "c271a11656d544bf75152895646c4665"
 }
