@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.111",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.111.ino.bin",
-  "notes": "Opcao Notify me em cada sensor: escolha quais sensores mandam notificacao no app/e-mail."
+  "version": "v0.0.112",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.112.ino.bin",
+  "notes": "Aviso de atualizacao logo depois do login; Atualizar agora instala direto, sem ir pra aba System."
 }
