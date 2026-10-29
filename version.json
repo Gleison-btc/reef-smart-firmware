@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.122",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.122.ino.bin",
-  "notes": "Historico de 30 dias (resumo por hora) e limpeza do historico por partes."
+  "version": "v0.0.125",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.125.ino.bin",
+  "notes": "Seguranca: HTTPS confere o certificado do servidor (atualizacoes, nuvem e MQTT); senha de fabrica admin/admin precisa ser trocada; senha do painel com 6+ caracteres."
 }

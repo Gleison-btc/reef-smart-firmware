@@ -1,7 +1,7 @@
 {
-  "version": "v27",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v27.bin",
-  "notes": "Graficos: eventos, media movel, cor da linha (2 cliques), faixa min/max, salvar imagem, mini-graficos na busca, tela cheia horizontal. Precisa firmware v0.0.122+.",
+  "version": "v30",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v30.bin",
+  "notes": "Profile: aviso para trocar a senha de fabrica e mensagens claras de senha fraca. Inclui as melhorias das versoes v28/v29.",
   "size": 458752,
-  "md5": "9faf3d0ee63d20d11738050ace7be052"
+  "md5": "5c3c83f4a6f44d92444180bccf451693"
 }
