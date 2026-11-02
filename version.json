@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.128",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.128.ino.bin",
-  "notes": "Corrige a nuvem caindo e o update que nao aparecia (falta de memoria com o MQTT ligado). Inclui a v0.0.127: update sempre para a versao mais nova, tomadas religam uma por vez no boot, barra do LCD sem colchetes."
+  "version": "v0.0.131",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.131.ino.bin",
+  "notes": "Nuvem estavel: comandos do app chegam pela propria conexao com a nuvem (sem MQTT nesta placa). Inclui update sempre para a versao mais nova, tomadas religam uma por vez no boot e barra do LCD sem colchetes."
 }
