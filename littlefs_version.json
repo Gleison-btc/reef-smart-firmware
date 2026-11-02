@@ -1,7 +1,7 @@
 {
-  "version": "v32",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v32.bin",
-  "notes": "Home com 2 casas decimais; aviso de controladora desconectada. Precisa firmware v0.0.128+.",
+  "version": "v33",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v33.bin",
+  "notes": "KH na aba Sensors (card Smart Reef - KH, cinza sem o módulo); aba KH removida. Precisa firmware v0.0.128+.",
   "size": 458752,
-  "md5": "fb61c64d4abae6eb47be6e2ae68f4443"
+  "md5": "ded8509d960d0a579afff3bcd0996019"
 }
