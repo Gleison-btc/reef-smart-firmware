@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.127",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.127.ino.bin",
-  "notes": "Update Now instala sempre a versao mais nova; tomadas religam uma por vez no boot (aparecem no LCD); barra de progresso do LCD sem colchetes."
+  "version": "v0.0.128",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.128.ino.bin",
+  "notes": "Corrige a nuvem caindo e o update que nao aparecia (falta de memoria com o MQTT ligado). Inclui a v0.0.127: update sempre para a versao mais nova, tomadas religam uma por vez no boot, barra do LCD sem colchetes."
 }
