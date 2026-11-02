@@ -1,7 +1,7 @@
 {
-  "version": "v31",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v31.bin",
-  "notes": "Aba KH nova (modulo medidor de KH). Precisa firmware v0.0.126+.",
+  "version": "v32",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v32.bin",
+  "notes": "Home com 2 casas decimais; aviso de controladora desconectada. Precisa firmware v0.0.127+.",
   "size": 458752,
-  "md5": "7bf4cc128526d349bbbcc8ed1a5fe88c"
+  "md5": "fb61c64d4abae6eb47be6e2ae68f4443"
 }

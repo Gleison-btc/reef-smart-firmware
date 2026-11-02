@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.126",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.126.ino.bin",
-  "notes": "Modulo medidor de KH: medicoes, calibracao, alarme e configuracao do modulo na aba KH; avisos no app quando o modulo para ou pede calibracao."
+  "version": "v0.0.127",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.127.ino.bin",
+  "notes": "Update Now instala sempre a versao mais nova; tomadas religam uma por vez no boot (aparecem no LCD); barra de progresso do LCD sem colchetes."
 }
