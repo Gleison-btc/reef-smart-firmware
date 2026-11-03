@@ -1,7 +1,7 @@
 {
-  "version": "v33",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v33.bin",
-  "notes": "KH na aba Sensors (card Smart Reef - KH, cinza sem o módulo); aba KH removida. Precisa firmware v0.0.128+.",
+  "version": "v34",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v34.bin",
+  "notes": "Smart Reef - KH na aba Sensors, no grafico e na Home; avisos de atualizacao mais curtos. O grafico do KH precisa do firmware v0.0.132+.",
   "size": 458752,
-  "md5": "ded8509d960d0a579afff3bcd0996019"
+  "md5": "9f22b4c4b000d031084ebb3916d2242b"
 }
