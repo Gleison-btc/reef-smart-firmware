@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.136",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.136.ino.bin",
-  "notes": "Seguranca reforcada: bloqueia ataques vindos de outros sites, exige trocar a senha de fabrica e protege o modo Setup. Inclui o painel local rapido e comandos do app em ~3s."
+  "version": "v0.0.137",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.137.ino.bin",
+  "notes": "Sensores Atlas nao travam mais a placa, MQTT removido e codigo de pareamento no display para adicionar a placa a uma conta."
 }

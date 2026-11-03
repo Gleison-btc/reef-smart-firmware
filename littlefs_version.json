@@ -1,7 +1,7 @@
 {
-  "version": "v34",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v34.bin",
-  "notes": "Smart Reef - KH na aba Sensors, no grafico e na Home; avisos de atualizacao mais curtos. O grafico do KH precisa do firmware v0.0.132+.",
+  "version": "v35",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v35.bin",
+  "notes": "Pagina Dosing usa a mesma navegacao das outras (mais leve). System mostra o Device ID sem o rotulo de pareamento.",
   "size": 458752,
-  "md5": "9f22b4c4b000d031084ebb3916d2242b"
+  "md5": "385da6590cf0f356076c8ac75bc3a186"
 }
