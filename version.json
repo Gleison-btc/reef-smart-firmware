@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.131",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.131.ino.bin",
-  "notes": "Nuvem estavel: comandos do app chegam pela propria conexao com a nuvem (sem MQTT nesta placa). Inclui update sempre para a versao mais nova, tomadas religam uma por vez no boot e barra do LCD sem colchetes."
+  "version": "v0.0.135",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.135.ino.bin",
+  "notes": "Painel local muito mais rapido e comandos do app em ~3s mesmo com a pagina local aberta: a conversa com a nuvem agora roda em paralelo. Inclui a busca automatica dos sensores de temperatura."
 }
