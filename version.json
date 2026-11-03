@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.137",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.137.ino.bin",
-  "notes": "Sensores Atlas nao travam mais a placa, MQTT removido e codigo de pareamento no display para adicionar a placa a uma conta."
+  "version": "v0.0.138",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.138.ino.bin",
+  "notes": "Cadastro de fabrica das placas novas (sem chave compartilhada no firmware). Inclui sensores Atlas sem travar e codigo de pareamento no display."
 }
