@@ -1,7 +1,7 @@
 {
-  "version": "v35",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v35.bin",
-  "notes": "Pagina Dosing usa a mesma navegacao das outras (mais leve). System mostra o Device ID sem o rotulo de pareamento.",
+  "version": "v36",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v36.bin",
+  "notes": "Favoritos mudados no app ou no site nao voltam mais ao clicar numa estrela no painel local; as paginas acompanham a mudanca sozinhas.",
   "size": 458752,
-  "md5": "385da6590cf0f356076c8ac75bc3a186"
+  "md5": "3aac0ad5aaf1f3d70ca5d2baa8e5017d"
 }
