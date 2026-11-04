@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.138",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.138.ino.bin",
-  "notes": "Cadastro de fabrica das placas novas (sem chave compartilhada no firmware). Inclui sensores Atlas sem travar e codigo de pareamento no display."
+  "version": "v0.0.139",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.139.ino.bin",
+  "notes": "Novas acoes de automacao: reiniciar o controlador, pausar automacoes (modo Manual) e modo Auto/Manual do alimentador."
 }
