@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.140",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.140.ino.bin",
-  "notes": "A atualizacao do controlador agora tambem pode ser confirmada pelo app (tela Devices), pela nuvem ou pela rede local."
+  "version": "v0.0.141",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.141.ino.bin",
+  "notes": "Mostra o uso da memoria de configuracoes na aba System e avisa no Log quando uma configuracao nao pode ser salva."
 }

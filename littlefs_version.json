@@ -1,7 +1,7 @@
 {
-  "version": "v38",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v38.bin",
-  "notes": "Calibracao de sensor simples (digite o valor real) e graficos com a coluna de preco arrastavel tambem no toque e no mini-grafico da Home.",
+  "version": "v39",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v39.bin",
+  "notes": "Aba System mostra a memoria de configuracoes; o Profile avisa quando nao consegue salvar.",
   "size": 458752,
-  "md5": "0e6a3e343363e88edaa9453e7abdd4e6"
+  "md5": "35da12ab8a5e48c8a674c76498fcca8a"
 }
