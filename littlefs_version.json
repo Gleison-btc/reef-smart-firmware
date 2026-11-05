@@ -1,7 +1,7 @@
 {
-  "version": "v40",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v40.bin",
-  "notes": "Graficos da Home e de Graficos ignoram leitura isolada com falha: a variacao real volta a aparecer.",
+  "version": "v41",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v41.bin",
+  "notes": "Janela de nova automacao em dois passos, igual a do app, cabendo na tela do celular.",
   "size": 458752,
-  "md5": "dd7eb761d75e72b382a41c59832bfc32"
+  "md5": "6e671508bbe24502c64d4656c2220735"
 }
