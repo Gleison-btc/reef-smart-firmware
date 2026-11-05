@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.142",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.142.ino.bin",
-  "notes": "Libera a memoria de configuracoes que estava cheia: o perfil e os ajustes voltam a ficar salvos depois de reiniciar."
+  "version": "v0.0.143",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.143.ino.bin",
+  "notes": "O botao Procurar atualizacoes automaticamente agora tambem pode ser mudado pelo app e pelo site web."
 }
