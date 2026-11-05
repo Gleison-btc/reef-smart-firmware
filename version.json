@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.143",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.143.ino.bin",
-  "notes": "O botao Procurar atualizacoes automaticamente agora tambem pode ser mudado pelo app e pelo site web."
+  "version": "v0.0.144",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.144.ino.bin",
+  "notes": "Salvar automacoes agora confere se gravou na memoria e avisa quando nao der."
 }
