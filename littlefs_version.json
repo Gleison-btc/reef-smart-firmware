@@ -1,7 +1,7 @@
 {
-  "version": "v37",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v37.bin",
-  "notes": "Painel em ingles ou portugues (escolha no menu de engrenagem) e novas acoes nas automacoes: reiniciar, pausar automacoes e modo do alimentador.",
+  "version": "v38",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v38.bin",
+  "notes": "Calibracao de sensor simples (digite o valor real) e graficos com a coluna de preco arrastavel tambem no toque e no mini-grafico da Home.",
   "size": 458752,
-  "md5": "bcae73294d937a4db5d98c49582e4fed"
+  "md5": "0e6a3e343363e88edaa9453e7abdd4e6"
 }
