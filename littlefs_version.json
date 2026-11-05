@@ -1,7 +1,7 @@
 {
-  "version": "v39",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v39.bin",
-  "notes": "Aba System mostra a memoria de configuracoes; o Profile avisa quando nao consegue salvar.",
+  "version": "v40",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/littlefs_v40.bin",
+  "notes": "Graficos da Home e de Graficos ignoram leitura isolada com falha: a variacao real volta a aparecer.",
   "size": 458752,
-  "md5": "35da12ab8a5e48c8a674c76498fcca8a"
+  "md5": "dd7eb761d75e72b382a41c59832bfc32"
 }
