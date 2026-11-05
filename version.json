@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.139",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.139.ino.bin",
-  "notes": "Novas acoes de automacao: reiniciar o controlador, pausar automacoes (modo Manual) e modo Auto/Manual do alimentador."
+  "version": "v0.0.140",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.140.ino.bin",
+  "notes": "A atualizacao do controlador agora tambem pode ser confirmada pelo app (tela Devices), pela nuvem ou pela rede local."
 }
