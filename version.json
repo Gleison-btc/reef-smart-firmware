@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.141",
-  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.141.ino.bin",
-  "notes": "Mostra o uso da memoria de configuracoes na aba System e avisa no Log quando uma configuracao nao pode ser salva."
+  "version": "v0.0.142",
+  "url": "https://raw.githubusercontent.com/Gleison-btc/reef-smart-firmware/main/binarios/smart_reef_v0.0.142.ino.bin",
+  "notes": "Libera a memoria de configuracoes que estava cheia: o perfil e os ajustes voltam a ficar salvos depois de reiniciar."
 }
